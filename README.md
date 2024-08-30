@@ -62,6 +62,6 @@ To run this project locally:
 
 ---
 
-Thanks for checking out our Card Matching Game project!
+Thanks for checking out my Card Matching Game project!
 
 ---
